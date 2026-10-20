@@ -1,0 +1,22 @@
+{
+  "name": "Featherfield Poultry",
+  "slug": "featherfield-poultry",
+  "concept": "Poultry farm supplier",
+  "category": "agriculture-food",
+  "subcategory": "poultry-farm",
+  "description": "Farm-gate catalogue for eggs and birds: price list table, wholesale crate tiers, delivery day schedule and a feed & supplies section.",
+  "design_family": "catalogue-farm",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "farm price list table",
+    "crate wholesale tiers",
+    "delivery day schedule strip",
+    "feed & supplies section",
+    "farm notice board"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
